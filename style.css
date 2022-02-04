@@ -1,0 +1,24 @@
+.header{
+    background-color: #8accd1;
+    display :flex;
+    justify-content: space-between;
+}
+.objects{
+    text-align: center;
+    background-color:#8accd1 ;
+}
+.object1{
+    display:flex;
+    background-color:#bfdb8f ;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.object1 p{
+    margin: 200px;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+    background-color:#8accd1;
+}
